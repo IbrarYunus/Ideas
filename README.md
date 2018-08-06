@@ -1,6 +1,6 @@
 # Development Ideas
 
-[![N|Solid](http://wallpaperstock.net/woman-profil-graffiti-wall_wallpapers_46671_852x480.jpg)  ](https://nodesource.com/products/nsolid) 
+[![N|Solid](http://fbcovershub.com/media/cover-444-john-wayne-fb-cover-1388015484.jpg)  ]
 
 ###### Contains list of development ideas
 ###### Created by Ibrar Yunus <iy3@st-andrews.ac.uk>
