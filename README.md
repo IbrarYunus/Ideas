@@ -1,8 +1,9 @@
 # Development Ideas
 
-[![N|Solid](https://i.imgur.com/oiDNzHK.png)  ]
+[![N|Solid](http://i.imgur.com/oiDNzHK.jpg)  ](https://www.youtube.com/watch?v=QwqmJilXxJY) 
+----
+###### Artwork - Shepherd and Shepherdess - François Boucher
 
-Artwork: Shepherd and Shepherdess - François Boucher1760
 ----
 ###### Contains list of development ideas
 ###### Created by Ibrar Yunus <iy3@st-andrews.ac.uk>
