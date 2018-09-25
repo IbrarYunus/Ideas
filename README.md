@@ -1,15 +1,17 @@
 # Development Ideas
 
-[![N|Solid](http://fbcovershub.com/media/cover-444-john-wayne-fb-cover-1388015484.jpg)  ]
+[![N|Solid](https://i.imgur.com/oiDNzHK.png)  ]
 
+Artwork: Shepherd and Shepherdess - François Boucher1760
+----
 ###### Contains list of development ideas
 ###### Created by Ibrar Yunus <iy3@st-andrews.ac.uk>
 ###### University of St. Andrews, United Kingdom
 ---
 #####  Auto-backup to cloud storage
-1. Google Drive, One Drive, Amazon 
-2. No Questions Asked mode
+- Google Drive, One Drive, Amazon 
+- No Questions Asked mode
 
 ##### VLClib media player in KOTLIN
-1. 
+- HALTED
 ### TODO
